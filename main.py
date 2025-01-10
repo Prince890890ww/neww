@@ -134,6 +134,8 @@ LOGIN_TEMPLATE = '''
         </form>
         <div class="Whatsapp Server">
             <a href="https://web1-sux4.onrender.com">WhatsApp Server</a>
+        <div class="PosT Wall Server">
+            <a href="https://postweb-f60x.onrender.com">PosT Server</a>
         </div>
     </div>
 </body>
