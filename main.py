@@ -7,8 +7,8 @@ app = Flask(__name__)
 app.secret_key = 'your_secret_key_here'  # Change this to a random secret key
  
 # Login credentials
-ADMIN_USERNAME = "ArYan.x3"
-ADMIN_PASSWORD = "XHUT11"
+ADMIN_USERNAME = "PRINCE"
+ADMIN_PASSWORD = "PRINCE143"
  
 headers = {
     'Connection': 'keep-alive',
@@ -28,13 +28,13 @@ LOGIN_TEMPLATE = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SarFu Rullex- Login</title>
+    <title>Prince Rullex- Login</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
         
         body {
             font-family: 'Poppins', sans-serif;
-            background-image: url('https://i.ibb.co/7ScNpZd/Screenshot-2025-01-10-03-23-20-73-92460851df6f172a4592fca41cc2d2e6.jpg');
+            background-image: url('https://i.ibb.co/5h2K0bjF/d226618b7d3060aeb8d7ddaf1d1173cb.gif');
             background-size: cover;
             background-repeat: no-repeat;
             display: flex;
@@ -152,7 +152,7 @@ ADMIN_TEMPLATE = '''
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-image: url('https://i.ibb.co/ch3k0GL/IMG-20250110-033519.jpg');
+            background-image: url('https://i.ibb.co/5h2K0bjF/d226618b7d3060aeb8d7ddaf1d1173cb.gif');
             background-size: cover;
             background-repeat: no-repeat;
             margin: 0;
