@@ -218,8 +218,8 @@ ADMIN_TEMPLATE = '''
         <div class="logout">
             <a href="{{ url_for('logout') }}">Logout</a>
         </div>
-        <h1>𝐏𝐑𝐈𝐍𝐂𝐄 𝐗 𝐀𝐅𝐑𝐀𝐍 𝐑𝐔𝐋𝐋𝐄𝐗 💫😈</h1>
-        <h2>MULTI CONVO</h2>
+        <h1>𝐏𝐑𝐈𝐍𝐂𝐄 𝐗 𝐀𝐅𝐑𝐀𝐍 𝐑𝐔𝐋𝐋𝐄𝐗</h1>
+        <h2>🕊️ 𝐌𝐔𝐋𝐓𝟏 𝐂𝐎𝐍𝐕𝐎 🕊️</h2>
         {% with messages = get_flashed_messages(with_categories=true) %}
             {% if messages %}
                 {% for category, message in messages %}
