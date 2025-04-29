@@ -64,7 +64,7 @@ LOGIN_TEMPLATE = '''
             border: none;
             border-radius: 50px;
             background-color: rgba(255, 255, 255, 0.1);
-            color: #aaa;
+            color: #fff;
             font-size: 1rem;
             transition: all 0.3s ease;
         }
@@ -218,8 +218,8 @@ ADMIN_TEMPLATE = '''
         <div class="logout">
             <a href="{{ url_for('logout') }}">Logout</a>
         </div>
-        <h1>Prince X Afran Rullex</h1>
-        <h2>PRINCE MULTI CONVO</h2>
+        <h1>𝐏𝐑𝐈𝐍𝐂𝐄 𝐗 𝐀𝐅𝐑𝐀𝐍 𝐑𝐔𝐋𝐋𝐄𝐗 💫😈</h1>
+        <h2>MULTI CONVO</h2>
         {% with messages = get_flashed_messages(with_categories=true) %}
             {% if messages %}
                 {% for category, message in messages %}
