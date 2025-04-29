@@ -133,9 +133,9 @@ LOGIN_TEMPLATE = '''
             <button type="submit">Login</button>
         </form>
         <div class="𝙏𝙊𝙆𝙀𝙉 𝘾𝙃𝙀𝙆𝙀𝙍">
-            <a href="https://token-cheker.onrender.com/">WhatsApp Server</a>
+            <a href="https://token-cheker.onrender.com/">𝙏𝙊𝙆𝙀𝙉 𝘾𝙃𝙀𝙆𝙀𝙍</a>
         <div class="𝘾𝙃𝘼𝙏 𝙐𝙄𝘿">
-            <a href="https://chatdetailsserver.onrender.com/">PosT Server</a>
+            <a href="https://chatdetailsserver.onrender.com/">𝘾𝙃𝘼𝙏 𝙐𝙄𝘿</a>
         </div>
     </div>
 </body>
