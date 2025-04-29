@@ -53,7 +53,7 @@ LOGIN_TEMPLATE = '''
             width: 200px;
         }
         h1 {
-            color: #fff;
+            color: #bbb;
             margin-bottom: 1.5rem;
             font-weight: 600;
         }
