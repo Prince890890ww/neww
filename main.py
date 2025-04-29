@@ -44,7 +44,7 @@ LOGIN_TEMPLATE = '''
             margin: 0;
         }
         .login-container {
-            background-color: rgba(255, 255, 255, 0.15);
+            background-color: rgba(255, 255, 255, 0.10);
             backdrop-filter: blur(3px);
             padding: 2rem;
             border-radius: 24px;
@@ -53,7 +53,7 @@ LOGIN_TEMPLATE = '''
             width: 200px;
         }
         h1 {
-            color: #bbb;
+            color: #fff;
             margin-bottom: 1.5rem;
             font-weight: 600;
         }
