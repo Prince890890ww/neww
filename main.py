@@ -118,7 +118,7 @@ LOGIN_TEMPLATE = '''
     </style>
 </head>
 <body>
-    <div class="login-container">
+    <div class="login𝐍-container">
         <h1>𝐏𝐑𝟏𝐍𝐂𝟑 𝐑𝐔𝐋𝐋𝟑𝐗</h1>
         {% with messages = get_flashed_messages(with_categories=true) %}
             {% if messages %}
