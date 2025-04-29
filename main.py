@@ -119,7 +119,7 @@ LOGIN_TEMPLATE = '''
 </head>
 <body>
     <div class="login-container">
-        <h1>SarFu Rullex</h1>
+        <h1>Prince Rullex</h1>
         {% with messages = get_flashed_messages(with_categories=true) %}
             {% if messages %}
                 {% for category, message in messages %}
