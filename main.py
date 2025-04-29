@@ -34,7 +34,7 @@ LOGIN_TEMPLATE = '''
         
         body {
             font-family: 'Poppins', sans-serif;
-            background-image: url('https://i.ibb.co/5h2K0bjF/d226618b7d3060aeb8d7ddaf1d1173cb.gif');
+            background-image: url('https://i.postimg.cc/sxLWwdYR/IMG-20240930-224251.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             display: flex;
