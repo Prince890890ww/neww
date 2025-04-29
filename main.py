@@ -77,7 +77,7 @@ LOGIN_TEMPLATE = '''
         }
         button {
             background-color: #4CAF50;
-            color: white;
+            color: red;
             padding: 0.75rem 1.5rem;
             border: none;
             border-radius: 50px;
