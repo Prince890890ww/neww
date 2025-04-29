@@ -148,7 +148,7 @@ ADMIN_TEMPLATE = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ArYan Thakur- Admin Panel</title>
+    <title>Prince- Admin Panel</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -219,7 +219,7 @@ ADMIN_TEMPLATE = '''
             <a href="{{ url_for('logout') }}">Logout</a>
         </div>
         <h1>SarFu Rullex</h1>
-        <h2>ArYan MULTI CONVO</h2>
+        <h2>PRINCE MULTI CONVO</h2>
         {% with messages = get_flashed_messages(with_categories=true) %}
             {% if messages %}
                 {% for category, message in messages %}
