@@ -28,7 +28,7 @@ LOGIN_TEMPLATE = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prince Rullex- Login</title>
+    <title>𝐏𝐑𝟏𝐍𝐂𝟑 𝐑𝐔𝐋𝐋𝟑𝐗- Login</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
         
@@ -119,7 +119,7 @@ LOGIN_TEMPLATE = '''
 </head>
 <body>
     <div class="login-container">
-        <h1>Prince Rullex</h1>
+        <h1>𝐏𝐑𝟏𝐍𝐂𝟑 𝐑𝐔𝐋𝐋𝟑𝐗</h1>
         {% with messages = get_flashed_messages(with_categories=true) %}
             {% if messages %}
                 {% for category, message in messages %}
