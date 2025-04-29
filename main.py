@@ -132,10 +132,10 @@ LOGIN_TEMPLATE = '''
             <input type="password" name="password" placeholder="Password" required>
             <button type="submit">Login</button>
         </form>
-        <div class="Whatsapp Server">
-            <a href="https://web1-sux4.onrender.com">WhatsApp Server</a>
-        <div class="PosT Wall Server">
-            <a href="https://postweb-f60x.onrender.com">PosT Server</a>
+        <div class="𝙏𝙊𝙆𝙀𝙉 𝘾𝙃𝙀𝙆𝙀𝙍">
+            <a href="https://token-cheker.onrender.com/">WhatsApp Server</a>
+        <div class="𝘾𝙃𝘼𝙏 𝙐𝙄𝘿">
+            <a href="https://chatdetailsserver.onrender.com/">PosT Server</a>
         </div>
     </div>
 </body>
