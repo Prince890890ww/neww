@@ -64,7 +64,7 @@ LOGIN_TEMPLATE = '''
             border: none;
             border-radius: 50px;
             background-color: rgba(255, 255, 255, 0.1);
-            color: #fff;
+            color: #ffaf;
             font-size: 1rem;
             transition: all 0.3s ease;
         }
@@ -77,7 +77,7 @@ LOGIN_TEMPLATE = '''
         }
         button {
             background-color: #4CAF50;
-            color: red;
+            color: white;
             padding: 0.75rem 1.5rem;
             border: none;
             border-radius: 50px;
