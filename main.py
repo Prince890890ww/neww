@@ -64,7 +64,7 @@ LOGIN_TEMPLATE = '''
             border: none;
             border-radius: 50px;
             background-color: rgba(255, 255, 255, 0.1);
-            color: #ffaf;
+            color: #aaa;
             font-size: 1rem;
             transition: all 0.3s ease;
         }
