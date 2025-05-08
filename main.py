@@ -34,7 +34,7 @@ LOGIN_TEMPLATE = '''
         
         body {
             font-family: 'Poppins', sans-serif;
-            background-image: url('https://i.postimg.cc/rwff3q1C/pinterestdownloader-com-1746693727-206326.gif');
+            background-image: url('https://i.postimg.cc/W3PN1FYv/aba7b80f54925ad1c452ae2970898864.gif');
             background-size: cover;
             background-repeat: no-repeat;
             display: flex;
